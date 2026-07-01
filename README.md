@@ -2,9 +2,6 @@
 
  A personal portfolio website built with React and Vite. This project showcases sections such as Hero, About, Projects, Resume, Services, Skills, and Contact, and includes several reusable UI components and animation utilities.
 
- ## Demo
- Add your live demo URL or screenshots here.
-
  ## Features
  - Responsive single-page portfolio
  - Animated components and page transitions
